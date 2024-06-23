@@ -1,5 +1,5 @@
 // Grecia Weber 119170/0 
-// Link al video de YouTube 
+// Link al video de YouTube https://youtu.be/vLBDStO1SMg
 // TRABAJO PRÁCTICO N°3 - "OpArt con Funciones y Ciclo For" 
 // COMISIÓN 5 
 // Obra seleccionada: Serie 14 N - 4E - Julio Le Parc
